@@ -1,7 +1,6 @@
 .lineGraph {
-    flex-grow: 1;
+    max-height: 200px;
 }
-
 .lineGraph >h3 {
-    padding: 10px;
+    padding: 20px;
 }

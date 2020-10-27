@@ -5,18 +5,7 @@
 body {
   background-color: #f5f6fa;
 }
-.app__right {
-  display: flex;
-  flex-direction: column;
-}
-.app__right .MultiCardContent-root {
-  display: flex;
-  flex-direction: column;
-  flex-grow: 1;
-}
-.app__graph {
-  flex-grow: 1;
-}
+
 .app__dropdown {
    background-color: white;
 }
@@ -41,6 +30,13 @@ body {
 }
 .app__left {
     flex: 0.9;
+}
+.app__graph {
+  flex-grow: 1;
+}
+.app__right {
+  display: flex;
+  flex-direction: row;
 }
 @media (max-width: 990px) {
   .app {

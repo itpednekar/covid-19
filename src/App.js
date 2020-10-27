@@ -132,7 +132,6 @@ function App() {
             <Table countries={tableData} />
             <LineGraph className="app__graph" casesType={casesType} />
           </CardContent>
-          <CardContent></CardContent>
         </Card>
      
     </div>
