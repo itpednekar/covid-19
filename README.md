@@ -1,6 +1,6 @@
-## `This is ## COVID-19 Tracker (Responsive) React Web App`  
+## `This is COVID-19 Tracker (Responsive) React Web App`  
 
-###  This App is Deployed on :fire: Firebase You can check.
+###  This App is Deployed on :fire: Firebase 
 ###  `This App Provide Realtime COVID-19 Reports According to Seleted Country`
 ___
 
