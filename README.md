@@ -19,15 +19,6 @@ ___
 
 ___
 
-## [:arrow_backward: API Used Click Here :arrow_forward:](https://corona.lmao.ninja/docs/) 
-### `This api is used and data is realtime and live `
-
-### Screens
-Cases Clicked | Recovered Clicked
---- | ---
-![1](https://user-images.githubusercontent.com/18563323/95829845-736efe80-0d54-11eb-8be7-e1c5ab58efcd.JPG ) | ![2](https://user-images.githubusercontent.com/18563323/95829887-7e299380-0d54-11eb-840d-01c6694066ad.JPG )
-
-___
 
 ## Hit That.. :star: Button... :thumbsup:
 
